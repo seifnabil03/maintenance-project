@@ -1,0 +1,12 @@
+
+p	java:S116("URename this field "m_formater" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê£Ù	8É“”‚õ1
+{	java:S116*"ZRename this field "m_secondsPassed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß°¡ïüÿÿÿÿ8Ê“”‚õ1
+{	java:S116+"ZRename this field "m_secondsTarget" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õàÚ«øÿÿÿÿ8Ê“”‚õ1
+s	java:S116-"RRename this field "m_timer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÃ›Äùÿÿÿÿ8Ë“”‚õ1
+l	java:S116/"PRename this field "m_bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä´˜8Ë“”‚õ1
+w	java:S1160"VRename this field "m_textField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ§èÿÿÿÿÿ8Ë“”‚õ1
+u	java:S1162"YRename this field "m_learnSession" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ñ€ê8Ë“”‚õ1
+M
+java:S19482"0Make "m_learnSession" transient or serializable.(×Ñ€ê8Ô“”‚õ1
+]
+java:S3252I"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Ä€„8á“”‚õ1

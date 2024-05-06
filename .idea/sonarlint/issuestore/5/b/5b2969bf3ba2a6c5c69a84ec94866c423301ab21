@@ -1,0 +1,12 @@
+
+ƒ
+java:S1192F"GDefine a constant instead of duplicating this literal "Foobar" 3 times.(’ÓÜşJ$bdbbe0a9-4604-4fa8-bb71-60097e1bf8a8
+
+java:S1192N"NDefine a constant instead of duplicating this literal "Foo<b>ba</b>r" 6 times.(æ˜°ÿÿÿÿÿJ$5e83be03-07db-4977-b769-d7c64db1164c
+	java:S116$"PRename this field "m_doc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şğ„°úÿÿÿÿJ$c72d0c1d-a97c-41fa-afff-326924763aeb
+{
+java:S1161&":Add the "@Override" annotation above this method signature(¬ô´¯ıÿÿÿÿJ$8bfe4ef2-6eb8-4fd6-aa8f-89cf796ba57e
+¿
+java:S1130T"~Remove the declaration of thrown exception 'javax.swing.text.BadLocationException', as it cannot be thrown from method's body.(¤­ÕÿşÿÿÿÿJ$74c5a9ba-f4af-4f1f-a3ab-7f5bc5e3e0c5
+¿
+java:S1130b"~Remove the declaration of thrown exception 'javax.swing.text.BadLocationException', as it cannot be thrown from method's body.(éÍÌ§ıÿÿÿÿJ$10b68d9c-7728-43fb-867f-c5b9d8d10c8a

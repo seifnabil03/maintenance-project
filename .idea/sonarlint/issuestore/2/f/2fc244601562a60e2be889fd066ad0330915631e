@@ -1,0 +1,9 @@
+
+”	java:S116!"TRename this field "m_canSave" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÏó¬úÿÿÿÿJ$e3a2cf96-05d0-4c12-9e72-a43c2a362105
+‘	java:S116""QRename this field "m_file" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃçÜåùÿÿÿÿJ$a7356adb-d815-4c16-93e0-464d99613a8b
+™	java:S116$"YRename this field "m_rootCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÔ…µÿÿÿÿÿJ$c5da4cc8-502c-40ed-85e7-a3a6dc21151d
+”	java:S116%"YRename this field "m_learnHistory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÌœ¬J$c1af8377-5ced-4eaf-beaa-4a70a5ca8a03
+†
+java:S6201|"EReplace this instanceof check and cast with 'instanceof Lesson other'(½É•¡ýÿÿÿÿJ$0f4a0df0-54d4-440d-b6d6-607568d36531
+o
+java:S1135–"2Complete the task associated to this TODO comment.(Ýì÷µJ$a084278d-2d8c-4f5d-9acf-3e3f36ffd88d

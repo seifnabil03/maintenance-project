@@ -1,0 +1,50 @@
+
+›
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨„¡²şÿÿÿÿJ$d49d6996-e843-42e0-984b-5b29be71ec15
+–
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì¶ˆ£J$5b98c4e3-6d0f-4af1-87b8-d439da16c6fe
+w
+java:S1141¬"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿJ$fe78da29-0100-437d-8e32-73ba39e34cb2
+j
+java:S1604¬"(Make this anonymous inner class a lambda(ü°ııÿÿÿÿJ$f5fa6574-6550-4146-a0eb-b4abf455da68
+e
+java:S1604õ"(Make this anonymous inner class a lambda(¬ıŠ¿J$75c12a54-48e2-4a97-8ecf-c797c7264c34
+“	java:S116w"XRename this field "m_categoryBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“İ¤äJ$c4c092b8-d1cc-43e0-b135-caab6e66ab44
+”	java:S116x"YRename this field "m_categoryTree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡âª±J$d40a5d1c-e6ef-499a-8b0e-130d732d90a5
+–	java:S116y"[Rename this field "m_deckTablePanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÖÍóJ$ce5d59e0-4d77-471b-b034-42e94a1a9a0b
+›	java:S116z"[Rename this field "m_deckChartPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ‘ğ’øÿÿÿÿJ$01a2fb70-64d5-470b-8992-95b9ce60e2c2
+’	java:S116{"WRename this field "m_learnPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÀJ$9e326cd3-5f74-41a4-8997-3af68c19a6f3
+	java:S116|"VRename this field "m_statusBar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¯‚PJ$e3d56210-8cca-465e-939a-baf3b4be1fe5
+›	java:S116}"[Rename this field "m_newCardManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÌğÿÿÿÿÿJ$8abc6389-ee2d-4ffa-9c7c-98da9aaf5dde
+™	java:S116€"XRename this field "m_bottomPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à«š§üÿÿÿÿJ$88ff3449-0ba3-4781-96a4-a8e1e00d81fb
+—	java:S116"[Rename this field "m_showTreeButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ‹¦·J$2e5c2539-ee0a-4b45-ba77-c2afaf7e272d
+œ	java:S116‚"`Rename this field "m_horizontalSplitPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÅÔ›J$3b2b12e7-aeb5-42aa-8288-4ad606805e30
+Ÿ	java:S116ƒ"^Rename this field "m_verticalSplitPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şä×ÕüÿÿÿÿJ$0b7cae22-b023-42f8-821b-74bbe0f71424
+œ	java:S116„"[Rename this field "m_treeScrollPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¾°öşÿÿÿÿJ$6ad95b28-d8e5-48b2-b5e4-f00174d59025
+	java:S116†"QRename this field "m_main" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Øú„J$54ad966e-df68-484a-93e2-3fded60a891a
+‘	java:S116‡"URename this field "m_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯™øJ$7c4768fb-f995-4f17-95be-01dccaf9c6d1
+	java:S116ˆ"QRename this field "m_deck" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ŠŒâJ$5f6bc03d-cc05-44a3-8d11-2ed531ff1d62
+ 	java:S116‰"_Rename this field "m_selectionObservers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨„¡²şÿÿÿÿJ$faef8f15-1be1-4f04-b635-4a5cb06ff299
+	java:S116Œ"]Rename this field "m_showCategoryTree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞßîúÿÿÿÿJ$e3189af3-b480-4d01-b5e2-3ef03c330d0c
+œ	java:S116"`Rename this field "m_showCategoryTreeOld" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¯”æJ$2395ebf4-92e3-4cdc-9174-aaa6eb285dd0
+š	java:S116"^Rename this field "m_categoryTreeWidth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ßÈJ$b9bd0859-675b-4513-9d54-62e9912dad47
+Ÿ	java:S116“"^Rename this field "m_focusedCategories" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ãÙßüÿÿÿÿJ$b8812092-1500-4202-974f-f4c5d0892c78
+s
+java:S1948}"2Make "m_newCardManager" transient or serializable.(‘ÌğÿÿÿÿÿJ$29efbdf8-2ff1-4a0b-aef0-dec7117827f8
+e
+java:S1948†"(Make "m_main" transient or serializable.(€Øú„J$160d624e-4355-402e-aa52-a1f20694dee3
+i
+java:S1948‡",Make "m_category" transient or serializable.(¯™øJ$e06cf276-79c0-4dcb-ac09-a1657a407bf6
+x
+java:S1948‰"6Make "m_selectionObservers" transient or serializable.(¨„¡²şÿÿÿÿJ$650c5394-292a-4972-8f7e-5c34517689a3
+w
+java:S1948“"5Make "m_focusedCategories" transient or serializable.(…ãÙßüÿÿÿÿJ$f80aae14-c7d7-44df-bd9e-ea4964e32580
+†
+java:S1124n"EReorder the modifiers to comply with the Java Language Specification.(Ô›¤¦ûÿÿÿÿJ$191ceccc-a37f-4ba2-a21d-4ef0e78ee226
+}	java:S125š"<This block of commented-out lines of code should be removed.(¶Œå°ûÿÿÿÿJ$2743e319-3dbb-4692-abc4-b583ff190169
+t
+java:S1135"2Complete the task associated to this TODO comment.(Âş„ÙûÿÿÿÿJ$500cfc1c-4795-4416-b72e-b9ef7e0da67f
+t
+java:S1135ø"2Complete the task associated to this TODO comment.(–†À¡ÿÿÿÿÿJ$546a0e4d-d366-4cb8-91ad-752125446169
+|
+java:S1161Ù":Add the "@Override" annotation above this method signature(šüİûÿÿÿÿJ$a5cc653c-fe04-4eb3-ab7d-60e6ec101556

@@ -1,0 +1,40 @@
+
+š
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(–©×ÑùÿÿÿÿJ$5eff9514-7ccc-461b-883e-42575676f751
+š	java:S116Q"ZRename this field "m_formattedText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÃ¦ÂüÿÿÿÿJ$d3e81dbd-9122-47ff-a0e8-bba0debfcdad
+œ	java:S116R"\Rename this field "m_unformattedText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÅ¯üÿÿÿÿJ$c38e0fd9-0d01-4656-a98f-8e89f583ed28
+Õ
+java:S65484"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ìÊ‡µJ$421b4411-e09c-405e-9b57-23d7088c1e42
+œ
+java:S1149õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$fe0f9947-cdd3-41fe-901c-2cc361662258
+œ
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$55ae796e-072d-4ee6-b500-cacf6b07834c
+œ
+java:S1149æ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ŒÏüµJ$a39501ec-b4f3-4c02-ad8c-4f4e17737b46
+s
+java:S1135>"2Complete the task associated to this TODO comment.(ÂÑà“ýÿÿÿÿJ$e2a2e11d-c9fc-41b8-8746-d1086703a17e
+s
+java:S1135?"2Complete the task associated to this TODO comment.(·å«òûÿÿÿÿJ$9025e44f-ebe5-4d92-90ab-e12722f2e410
+n
+java:S1135@"2Complete the task associated to this TODO comment.(ºŽÓéJ$37a92402-6014-4d1b-ae67-aa3bcacb4596
+n
+java:S1135A"2Complete the task associated to this TODO comment.(æþš¾J$09335e37-1c77-4c50-bf41-7bf5e5791936
+|	java:S125M"<This block of commented-out lines of code should be removed.(ØÙ®÷øÿÿÿÿJ$0972d53b-4e3c-420f-8e3d-8e43ee4673b2
+o
+java:S1135"2Complete the task associated to this TODO comment.(ýõ–ñJ$2bad57aa-f75a-443d-94a9-461cf33b0c5a
+•
+java:S2975Ç"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿJ$c2d0fd19-8dce-4289-ae60-49d54c2f1609
+V
+java:S2225Ò"Return a non null object.(¥¹ïJ$e731a64d-8f51-467d-bcad-177cda632af0
+‰
+java:S6201Ú"LReplace this instanceof check and cast with 'instanceof FormattedText other'(›óÐòJ$5cb29222-97a3-4310-90e0-c9adb62fead8
+x	java:S125š"<This block of commented-out lines of code should be removed.(¼µ­²J$567367e7-8092-44cc-bdd7-3682c19332a6
+q
+java:S2864Â"4Iterate over the "entrySet" instead of the "keySet".(ü—º¥J$1835718e-af2a-47f9-8f0c-453e3c73d06a
+Ç
+java:S1130ä"„Remove the declaration of thrown exception 'jmemorize.core.FormattedText$ParseException', as it cannot be thrown from method's body.(Œå¨²ùÿÿÿÿJ$d23a7954-d317-4979-a928-b55c92118d40
+x	java:S125è"<This block of commented-out lines of code should be removed.(ñÞõôJ$902bd403-f936-496c-91f7-2eb5ea83474a
+x	java:S125Ž"<This block of commented-out lines of code should be removed.(£Ã‡ÇJ$352f7049-7055-4456-9a66-828f836aa96f
+x	java:S125™"<This block of commented-out lines of code should be removed.(Ú°à¬J$0ee3e0ac-e426-4528-8a22-0170c69925ce
+t
+java:S1135–"2Complete the task associated to this TODO comment.(¨ƒîéþÿÿÿÿJ$43000b1e-8898-408d-9df9-b36d7b7d6c9e

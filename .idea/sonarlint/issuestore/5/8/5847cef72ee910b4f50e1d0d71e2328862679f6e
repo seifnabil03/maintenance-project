@@ -1,0 +1,29 @@
+
+š
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛƒµàûÿÿÿÿJ$d2fb50b1-592c-47c0-b3b9-134904618553
+š
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ú³¹øÿÿÿÿJ$b81ebb40-7678-4bfc-91bf-297dc904dad3
+›
+java:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄãÀœùÿÿÿÿJ$e709f869-c722-4cb9-8726-07ec86f96210
+–
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥÷äÅJ$cc7c7f72-91df-445c-beea-f298124cedb9
+›
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ô“ÅûÿÿÿÿJ$c1b4f7c2-1378-4dc6-adee-db50fb7ab67c
+X
+java:S1643s"Use a StringBuilder instead.(âÍúØJ$2f4cb0db-7e2c-4625-b5eb-075628708600
+•	java:S1160"URename this field "m_imageMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛƒµàûÿÿÿÿJ$f0b2a0d2-84d6-4128-8079-0621200dd539
+—	java:S1161"WRename this field "m_imageCache" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ú³¹øÿÿÿÿJ$2d7ef20e-95e3-42d6-a156-bc2ac783e0d3
+‘
+java:S3008."URename this field "m_instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¤ØJ$a832f905-aff6-4c69-9f26-9c960f6165e0
+Ú
+java:S6548("˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(şï»¥øÿÿÿÿJ$07a51973-884f-42ac-a410-fbe08e34641a
+’	java:S1167"WRename this field "m_sourceFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø´º÷J$66391dfd-283d-436b-9989-f06db17586e9
+	java:S1168"RRename this field "m_bytes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÇÜŠJ$b0199f44-59fb-47b5-bc5e-f134af4572ac
+	java:S1169"ORename this field "m_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“œ­ªùÿÿÿÿJ$b1c537fa-a02f-40d0-acf7-a757937a82fb
+o
+java:S1135‰"2Complete the task associated to this TODO comment.(€éîÈJ$245c75a7-9614-476a-99c5-c97badefbd9c
+t
+java:S1135˜"2Complete the task associated to this TODO comment.(Ë­€­ÿÿÿÿÿJ$5d1fdce6-616d-4164-8ec9-34b3a7682ef1
+x	java:S125»"<This block of commented-out lines of code should be removed.(ÆÈ„J$2cda44ba-7f1d-498f-b85e-9150c1bd1d8b
+m
+java:S1874Ø"+Remove this use of "URL"; it is deprecated.(ƒìŒ½ıÿÿÿÿJ$3e985b5d-facf-485a-82da-e604f0c861cc

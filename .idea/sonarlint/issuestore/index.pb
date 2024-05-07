@@ -23,3 +23,5 @@ V
 &src/jmemorize/core/LessonObserver.java,c\d\cdac56be75c9a27223b6b00aa296739e2c51051b
 P
  src/jmemorize/core/Category.java,b\7\b79817ce84d43cb3143d5887c490c98da970041f
+P
+ src/jmemorize/core/CardSide.java,1\9\193b3ae25de434658a4cf27a0f8ff1b51b55c917

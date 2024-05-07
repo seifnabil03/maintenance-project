@@ -1,0 +1,23 @@
+
+E
+java:S3740F"/Provide the parametrized type for this generic.(¨íûÁ
+E
+java:S3740F"/Provide the parametrized type for this generic.(¨íûÁ
+c
+java:S1192¡"GDefine a constant instead of duplicating this literal "p:grow" 3 times.(è·××ûÿÿÿÿ
+D
+java:S1604…"(Make this anonymous inner class a lambda(ƒšš–ýÿÿÿÿ
+D
+java:S1604Ô"(Make this anonymous inner class a lambda( ù‹±üÿÿÿÿ
+?
+java:S1604ã"(Make this anonymous inner class a lambda(™¬ÞÔ
+?
+java:S1604ê"(Make this anonymous inner class a lambda(¹Ëš™
+j	java:S116F"URename this field "m_sideList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨íûÁ
+j	java:S116H"URename this field "m_settings" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó»ãå
+f	java:S116I"RRename this field "m_frame" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†è…
+
+z	java:S116K"`Rename this field "m_learnSettingsPanels" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÙÃ§úÿÿÿÿ
+t	java:S116L"ZRename this field "m_settingsPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÜ½œøÿÿÿÿ
+m	java:S116M"XRename this field "m_applyButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷–ºç
+t	java:S116O"ZRename this field "m_selectedCards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²º¢…ÿÿÿÿÿ

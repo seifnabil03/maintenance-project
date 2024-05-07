@@ -23,13 +23,14 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.text.DecimalFormat;
 
-import javax.swing.JPanel;
-import javax.swing.JProgressBar;
-import javax.swing.JTextField;
-import javax.swing.Timer;
+import javax.swing.*;
 
+import jmemorize.core.learn.DefaultLearnSession;
 import jmemorize.core.learn.LearnSession;
+import jmemorize.gui.LC;
 import jmemorize.gui.Localization;
+import jmemorize.gui.swing.actions.AbstractAction2;
+import jmemorize.gui.swing.actions.LearnAction;
 
 /**
  * @author djemili
@@ -48,6 +49,24 @@ public class TimerPanel extends JPanel implements ActionListener
     private JTextField    m_textField = new JTextField();
 
     private LearnSession  m_learnSession;
+
+    private LearnPanel m_learnPanel;
+    JButton stopLearningButton = new JButton(new StopAction());
+
+
+    private class StopAction extends AbstractAction2
+    {
+        public StopAction()
+        {
+            setName(Localization.get(LC.LEARN_STOP));
+        }
+
+        public void actionPerformed(ActionEvent e)
+        {
+            m_learnSession.endLearning();
+        }
+    }
+
 
     public void start(LearnSession learnSession, int seconds)
     {
@@ -112,7 +131,10 @@ public class TimerPanel extends JPanel implements ActionListener
 
         if (m_secondsPassed == m_secondsTarget)
         {
+
             m_timer.stop();
+            m_learnSession.endLearning();
+            stopLearningButton.setEnabled(true);
             m_learnSession.onTimer();
         }
     }

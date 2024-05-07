@@ -23,3 +23,7 @@ V
 &src/jmemorize/core/LessonObserver.java,c\d\cdac56be75c9a27223b6b00aa296739e2c51051b
 P
  src/jmemorize/core/Category.java,b\7\b79817ce84d43cb3143d5887c490c98da970041f
+h
+8src/jmemorize/gui/swing/dialogs/LearnSettingsDialog.java,c\9\c9fb8faf020db7ca7e825ce12eeca90b1552f0db
+f
+6src/jmemorize/gui/swing/panels/LearnSettingPanels.java,f\8\f8d3932f443600ca834c806c6a4feddde83caca8

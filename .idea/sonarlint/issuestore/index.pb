@@ -21,3 +21,5 @@ N
 src/jmemorize/core/Lesson.java,2\f\2fc244601562a60e2be889fd066ad0330915631e
 V
 &src/jmemorize/core/LessonObserver.java,c\d\cdac56be75c9a27223b6b00aa296739e2c51051b
+P
+ src/jmemorize/core/Category.java,b\7\b79817ce84d43cb3143d5887c490c98da970041f

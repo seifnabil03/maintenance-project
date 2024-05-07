@@ -1,40 +1,40 @@
 
 š
-java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(–©×ÑùÿÿÿÿJ$98b18a86-8c22-42bf-b118-bc3712beade4
-š	java:S116Q"ZRename this field "m_formattedText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÃ¦ÂüÿÿÿÿJ$019517df-e4ca-423a-b5da-9723d8ff0e2d
-œ	java:S116R"\Rename this field "m_unformattedText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÅ¯üÿÿÿÿJ$e0d296d3-1817-4f14-81f4-e9e9c2857a48
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(–©×ÑùÿÿÿÿJ$aaa14cbb-19a7-469b-9974-f8bda5175701
+š	java:S116Q"ZRename this field "m_formattedText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÃ¦ÂüÿÿÿÿJ$9df775e7-2a2b-460b-93c9-19bd335e63de
+œ	java:S116R"\Rename this field "m_unformattedText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÅ¯üÿÿÿÿJ$0f1a2545-2d98-48d1-8cec-ad9475c3ff3b
 Õ
-java:S65484"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ìÊ‡µJ$916ab937-f57b-499d-bdf4-7ac65aa7de7b
+java:S65484"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ìÊ‡µJ$e3c41f4e-2760-4190-8ba0-6725ca8fcc22
 œ
-java:S1149õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$f9e35df9-6037-4a6e-aa20-0ab994c72512
+java:S1149õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$281201f6-46cb-4446-ade6-a62ef05cb625
 œ
-java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$26c8ef65-7232-47ea-a0e2-a1c122cc40fe
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰J$9e9fd316-562f-4788-8673-5b9342292f44
 œ
-java:S1149æ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ŒÏüµJ$ad8e87c7-e95b-4579-a53c-a295a94fda0a
+java:S1149æ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ŒÏüµJ$baf2a0e7-3e39-472a-9877-379c67d89cb0
 s
-java:S1135>"2Complete the task associated to this TODO comment.(ÂÑà“ıÿÿÿÿJ$4183a425-0d67-4ac8-b795-ea19f84a2f7a
+java:S1135>"2Complete the task associated to this TODO comment.(ÂÑà“ıÿÿÿÿJ$0be01c74-3f19-4cfb-b51e-3a3e504b3b6d
 s
-java:S1135?"2Complete the task associated to this TODO comment.(·å«òûÿÿÿÿJ$1b1fe16e-6c12-4b0a-b844-ffb6901b0187
+java:S1135?"2Complete the task associated to this TODO comment.(·å«òûÿÿÿÿJ$b2dc2341-bd72-4d50-aeb8-145150b8ae84
 n
-java:S1135@"2Complete the task associated to this TODO comment.(ºÓéJ$be81408c-ef96-4340-b8aa-7f938827ccc2
+java:S1135@"2Complete the task associated to this TODO comment.(ºÓéJ$ea1fa534-876b-4571-8626-3fb2587c042a
 n
-java:S1135A"2Complete the task associated to this TODO comment.(æşš¾J$6f7df9ed-ee8d-4eab-9f0c-1539b774c6ee
-|	java:S125M"<This block of commented-out lines of code should be removed.(ØÙ®÷øÿÿÿÿJ$8a350cb9-0825-4ea8-ab54-6a2ed2c8d295
+java:S1135A"2Complete the task associated to this TODO comment.(æşš¾J$fb0d8ebb-3998-4beb-8f97-43f408cc38c9
+|	java:S125M"<This block of commented-out lines of code should be removed.(ØÙ®÷øÿÿÿÿJ$d3dbb7ef-a671-4143-bc45-897396fc3d33
 o
-java:S1135"2Complete the task associated to this TODO comment.(ıõ–ñJ$61bc5049-8e9d-4578-97d3-2e89c489b50f
+java:S1135"2Complete the task associated to this TODO comment.(ıõ–ñJ$a10ec920-ae57-4e47-91f8-3819d208621a
 •
-java:S2975Ç"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿJ$a6e19487-3642-4beb-a3e2-5164d953ad93
+java:S2975Ç"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿJ$411e4045-a274-48f6-bdc4-bd67ff5d93c5
 V
-java:S2225Ò"Return a non null object.(¥¹ïJ$307d1100-2039-4f10-8bb6-5ace3320e6b2
+java:S2225Ò"Return a non null object.(¥¹ïJ$a2a6a046-0879-47ed-a6e9-2964385ae070
 ‰
-java:S6201Ú"LReplace this instanceof check and cast with 'instanceof FormattedText other'(›óĞòJ$0878d3fa-1263-4362-a539-aec5fa6544ea
-x	java:S125š"<This block of commented-out lines of code should be removed.(¼µ­²J$cedbf31e-e91b-4bd3-a211-b705e6fe1668
+java:S6201Ú"LReplace this instanceof check and cast with 'instanceof FormattedText other'(›óĞòJ$3fa71d5e-aa3f-4a83-9500-ab7946f8f903
+x	java:S125š"<This block of commented-out lines of code should be removed.(¼µ­²J$6068e0e1-7dd9-4fbb-b323-0d2187516c41
 q
-java:S2864Â"4Iterate over the "entrySet" instead of the "keySet".(ü—º¥J$244a2200-9935-415d-894e-a176f6923e44
+java:S2864Â"4Iterate over the "entrySet" instead of the "keySet".(ü—º¥J$fea6dc60-f4c0-455c-83c8-d44e06874478
 Ç
-java:S1130ä"„Remove the declaration of thrown exception 'jmemorize.core.FormattedText$ParseException', as it cannot be thrown from method's body.(Œå¨²ùÿÿÿÿJ$4865003e-3369-4ff0-a84e-bb33f44dfec8
-x	java:S125è"<This block of commented-out lines of code should be removed.(ñŞõôJ$87376863-a695-48ed-b02c-c72e5bd57599
-x	java:S125"<This block of commented-out lines of code should be removed.(£Ã‡ÇJ$dae2d0fc-7091-4a96-be03-8ca9dea2f021
-x	java:S125™"<This block of commented-out lines of code should be removed.(Ú°à¬J$9944a96d-f1b9-47a5-be47-d08dc0f43e7c
+java:S1130ä"„Remove the declaration of thrown exception 'jmemorize.core.FormattedText$ParseException', as it cannot be thrown from method's body.(Œå¨²ùÿÿÿÿJ$0caa4fcd-d5fc-4e07-b793-af7f910d4a1c
+x	java:S125è"<This block of commented-out lines of code should be removed.(ñŞõôJ$52a63313-94f1-495a-86b9-0fe7e0a25ecf
+x	java:S125"<This block of commented-out lines of code should be removed.(£Ã‡ÇJ$97bb1f18-8f01-4c6a-94cb-30e869f224e8
+x	java:S125™"<This block of commented-out lines of code should be removed.(Ú°à¬J$d978254d-1a45-434a-af6a-e077a98dd0e2
 t
-java:S1135–"2Complete the task associated to this TODO comment.(¨ƒîéşÿÿÿÿJ$646f20f1-9a45-46f6-ae7b-18d80303ba39
+java:S1135–"2Complete the task associated to this TODO comment.(¨ƒîéşÿÿÿÿJ$e1f335a4-cdfb-453d-b86d-df99135a08a3

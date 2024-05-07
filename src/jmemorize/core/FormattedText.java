@@ -332,7 +332,7 @@ public class FormattedText implements Cloneable
         
         return sb.toString();
     }
-    /*hhhhh*/
+   //omarkhaled
     private static String escape(String text)
     {
         return text.replace("<", "&lt;").replace(">", "&gt;");

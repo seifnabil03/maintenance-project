@@ -1,0 +1,12 @@
+
+š
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(—¶×­ýÿÿÿÿJ$8bc7bc6d-7e90-4df5-8179-26e671fce9ae
+š
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇË•†úÿÿÿÿJ$346c2a07-7ad5-4035-96e1-932dc0c74afb
+‘	java:S116("QRename this field "m_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ñ¸£ûÿÿÿÿJ$251f71ee-3cb6-4a2d-8024-44fc2c118587
+•	java:S116)"URename this field "m_imageIDs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¶×­ýÿÿÿÿJ$5d8e6668-311f-427c-97ed-44b819b4eeea
+–	java:S116*"VRename this field "m_observers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇË•†úÿÿÿÿJ$c18fe1c2-da7f-4d9f-a0fb-4ae1f448ded3
+”
+java:S2975x"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ŒÉ¯æþÿÿÿÿJ$dbb6c6a6-7d67-4665-96e1-f3a980acd1b9
+‰
+java:S1182x"HUse super.clone() to create and seed the cloned instance to be returned.(ŒÉ¯æþÿÿÿÿJ$4be24ae8-ed09-4b27-b820-cce3b2d947b5

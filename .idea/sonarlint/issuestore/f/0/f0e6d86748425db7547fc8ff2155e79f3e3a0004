@@ -7,10 +7,10 @@ java:S2293]"YReplace the type specification in this constructor call with the d
 java:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾€ÉÑûÿÿÿÿJ$e6909a61-1ebf-4990-955b-2aaf6f73711a
 f
 java:S2629Ğ"$Invoke method(s) only conditionally.(ËÆè°şÿÿÿÿJ$ee410d41-2482-4f7e-b420-ac1bcac6e615
-
-java:S2095ß"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¢âØøÿÿÿÿJ$fc1a6e08-b83b-42be-97dd-262839152b48
 ‹
 java:S2095à"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ö·¥öJ$f675a403-97ac-441e-811e-be5e7a94b67a
+
+java:S2095ß"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¢âØøÿÿÿÿJ$fc1a6e08-b83b-42be-97dd-262839152b48
 “	java:S116N"XRename this field "m_recentFiles" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃíŒ„J$9c042ffc-54c3-4aef-ad19-ac8d8f7e0d32
 Œ	java:S116S"RRename this field "m_frame" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†è…
 J$bc0db9be-804a-4501-b895-ff363f9d4a68
@@ -35,8 +35,6 @@ t
 java:S1135’"2Complete the task associated to this TODO comment.(÷î€¡ùÿÿÿÿJ$9750a397-00b5-41e1-9008-c3323b8a0c68
 t
 java:S1135ª"2Complete the task associated to this TODO comment.(±ˆ§±şÿÿÿÿJ$8a48dd14-d983-4b68-afb7-400b7ac30df0
-i
-java:S1181Ê"%Catch Exception instead of Throwable.(Ñ´¯8Ë‡¢ïô1J$59e19d5a-2bf1-40fc-aa7d-cfc1e8835cc9
 |	java:S899¾";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿJ$718ead94-63dc-4c06-81f8-69e68f0ebfff
 
 java:S4042¾"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿJ$da31cd6c-1cd7-4ae8-8fe8-1a948d2355b7

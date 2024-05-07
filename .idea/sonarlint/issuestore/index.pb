@@ -27,3 +27,5 @@ h
 8src/jmemorize/gui/swing/dialogs/LearnSettingsDialog.java,c\9\c9fb8faf020db7ca7e825ce12eeca90b1552f0db
 f
 6src/jmemorize/gui/swing/panels/LearnSettingPanels.java,f\8\f8d3932f443600ca834c806c6a4feddde83caca8
+P
+ src/jmemorize/core/CardSide.java,1\9\193b3ae25de434658a4cf27a0f8ff1b51b55c917

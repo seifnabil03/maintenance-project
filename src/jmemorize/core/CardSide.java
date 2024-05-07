@@ -27,6 +27,8 @@ import java.util.List;
  * 
  * @author djemili
  */
+//omar
+    
 public class CardSide implements Cloneable
 {
     public interface CardSideObserver

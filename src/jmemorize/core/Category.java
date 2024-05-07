@@ -79,9 +79,32 @@ public class Category implements Events
      * 
      * Fires a ADDED_EVENT.
      */
+
+    public boolean checkForIdenticalCard(CardSide frontSide, CardSide backSide) {
+        String frontText = frontSide.getText().getUnformatted();
+        String backText = backSide.getText().getUnformatted();
+
+        // Iterate through all cards in the category to find an identical one
+        for (List<Card> deck : m_decks) {
+            for (Card card : deck) {
+                String existingFrontText = card.getFrontSide().getText().getUnformatted();
+                String existingBackText = card.getBackSide().getText().getUnformatted();
+                if (existingFrontText.equals(frontText) && existingBackText.equals(backText)) {
+                    return true; // Identical card already exists
+                }
+            }
+        }
+
+        return false; // No identical card found
+    }
+
     public void addCard(Card card)
     {
-        addCard(card, 0);
+        if (checkForIdenticalCard(card.getFrontSide(),card.getBackSide())) {
+            addCard(card, 0);
+        }else return;
+
+
     }
     
     /**
